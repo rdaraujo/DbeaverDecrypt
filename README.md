@@ -1,2 +1,2 @@
 # DbeaverDecrypt
-Decryot DBeaver saved credentials
+Decrypt DBeaver saved credentials
